@@ -2,7 +2,7 @@
   "name": "aio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/aio",
+  "homepage": "https://aiorimi.javasc.rip",
 
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
